@@ -2358,7 +2358,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+              
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000211930"
                 data-cornr-set-id=""
@@ -2371,7 +2371,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+              
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000211931"
                 data-cornr-set-id=""
@@ -2384,7 +2384,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+             
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000211932"
                 data-cornr-set-id=""
@@ -3978,8 +3978,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                 
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -4064,7 +4063,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                      
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -4094,10 +4093,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                        
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                       
                       </div>
                     </div>
                   </div>
@@ -4119,8 +4118,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                  
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -4205,7 +4203,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                  
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -4238,10 +4236,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                       
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                        
                       </div>
                     </div>
                   </div>
@@ -4263,8 +4261,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                  
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -4349,7 +4346,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                    
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -4379,10 +4376,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                        
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                       
                       </div>
                     </div>
                   </div>
@@ -4404,8 +4401,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                 
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -4490,7 +4486,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                     
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -4516,10 +4512,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                        
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                       
                       </div>
                     </div>
                   </div>
@@ -4541,8 +4537,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                 
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -4627,7 +4622,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                     
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -4655,10 +4650,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                       
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                     
                       </div>
                     </div>
                   </div>
@@ -4680,8 +4675,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                 
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -4766,7 +4760,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                   
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -4801,10 +4795,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                       
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                    
                       </div>
                     </div>
                   </div>
@@ -4826,8 +4820,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                  
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -4912,7 +4905,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                    
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -4944,10 +4937,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                       
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                       
                       </div>
                     </div>
                   </div>
@@ -4969,8 +4962,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                  
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -5055,7 +5047,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                    
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -5086,10 +5078,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                        
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                      
                       </div>
                     </div>
                   </div>
@@ -5111,8 +5103,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                  
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -5197,7 +5188,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                     
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -5230,10 +5221,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                        
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                      
                       </div>
                     </div>
                   </div>
@@ -5249,7 +5240,7 @@ function Jinseok() {
         <a
           href="https://m.ssg.com/page/ssgluxury/new.ssg?mccode=6005"
           class="cmitem_more_link clickable"
-          style="--more-link-color: #000000"
+       
           data-react-tarea="홈|프리미엄신상품_더보기|더보기_링크_클릭"
         >
           NEW ARRIVALS 더보기<span class="cmitem_more_arrow"></span>
@@ -5266,7 +5257,7 @@ function Jinseok() {
     </div>
     <div class="cmgrid_full_box cmctg_nav_dummy"></div>
     <div class="cmgrid_full_box js-set-header" data-page-set-id="127">
-      <div class="cmctg_nav ty_rect" style="--ctg-nav-bgcolor: #ffffff">
+      <div class="cmctg_nav ty_rect">
         <div class="cmctg_top">
           <h3>전체메뉴</h3>
           <span class="cmctg_toggle">
@@ -5291,7 +5282,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable on"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+            
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000211928"
                 data-cornr-set-id=""
@@ -5304,7 +5295,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+             
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000211923"
                 data-cornr-set-id=""
@@ -5317,7 +5308,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+             
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000211925"
                 data-cornr-set-id=""
@@ -5330,7 +5321,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+             
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000211926"
                 data-cornr-set-id=""
@@ -5343,7 +5334,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+              
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000211927"
                 data-cornr-set-id=""
@@ -5356,7 +5347,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+             
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000211929"
                 data-cornr-set-id=""
@@ -5369,7 +5360,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+             
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000211930"
                 data-cornr-set-id=""
@@ -5382,7 +5373,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+             
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000211931"
                 data-cornr-set-id=""
@@ -5395,7 +5386,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+             
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000211932"
                 data-cornr-set-id=""
@@ -5429,8 +5420,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                 
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -5515,7 +5505,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                    
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -5543,10 +5533,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                        
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                    
                       </div>
                     </div>
                   </div>
@@ -5568,8 +5558,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                 
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -5654,7 +5643,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                     
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -5687,10 +5676,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                      
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                      
                       </div>
                     </div>
                   </div>
@@ -5712,8 +5701,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                 
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -5748,7 +5736,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                        
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -5799,7 +5787,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                   
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -5827,10 +5815,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                       
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                       
                       </div>
                     </div>
                   </div>
@@ -5852,8 +5840,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                 
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -5888,7 +5875,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                      
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -5939,7 +5926,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                   
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -5972,10 +5959,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                     
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                     
                       </div>
                     </div>
                   </div>
@@ -5997,8 +5984,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                  
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -6033,7 +6019,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                      
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -6084,7 +6070,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                     
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -6116,10 +6102,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                      
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                    
                       </div>
                     </div>
                   </div>
@@ -6141,8 +6127,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                 
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -6177,7 +6162,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                       
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -6228,7 +6213,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                    
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -6259,10 +6244,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                      
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                    
                       </div>
                     </div>
                   </div>
@@ -6284,8 +6269,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -6320,7 +6304,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                     
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -6371,7 +6355,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                    
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -6403,10 +6387,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                      
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                       
                       </div>
                     </div>
                   </div>
@@ -6428,8 +6412,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+               
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -6464,7 +6447,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                      
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -6515,7 +6498,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                   
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -6542,10 +6525,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                      
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                     
                       </div>
                     </div>
                   </div>
@@ -6567,8 +6550,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                  
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -6603,7 +6585,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                       
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -6654,7 +6636,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                     
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -6684,10 +6666,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                      
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                      
                       </div>
                     </div>
                   </div>
@@ -6709,8 +6691,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                  
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -6745,7 +6726,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                       
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -6796,7 +6777,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                    
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -6829,10 +6810,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                       
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                     
                       </div>
                     </div>
                   </div>
@@ -6854,8 +6835,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                 
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -6890,7 +6870,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                       
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -6941,7 +6921,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                     
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -6971,10 +6951,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                      
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                      
                       </div>
                     </div>
                   </div>
@@ -6996,8 +6976,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                  
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -7032,7 +7011,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                       
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -7083,7 +7062,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                    
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -7111,10 +7090,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                       
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                       
                       </div>
                     </div>
                   </div>
@@ -7136,8 +7115,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+               
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -7172,7 +7150,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                       
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -7223,7 +7201,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                     
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -7256,10 +7234,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                        
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                      
                       </div>
                     </div>
                   </div>
@@ -7281,8 +7259,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                  
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -7317,7 +7294,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                        
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -7368,7 +7345,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                     
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -7398,10 +7375,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                      
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                    
                       </div>
                     </div>
                   </div>
@@ -7423,8 +7400,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                  
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -7459,7 +7435,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                       
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -7510,7 +7486,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                     
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -7544,10 +7520,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                       
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                      
                       </div>
                     </div>
                   </div>
@@ -7569,8 +7545,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                 
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -7605,7 +7580,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                       
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -7656,7 +7631,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                      
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -7688,10 +7663,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                        
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                       
                       </div>
                     </div>
                   </div>
@@ -7713,8 +7688,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                  
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -7749,7 +7723,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                       
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -7800,7 +7774,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                      
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -7832,10 +7806,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                       
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                       
                       </div>
                     </div>
                   </div>
@@ -7857,8 +7831,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                  
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -7893,7 +7866,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                       
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -7944,7 +7917,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                     
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -7971,10 +7944,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                       
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                      
                       </div>
                     </div>
                   </div>
@@ -7996,8 +7969,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                  
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -8032,7 +8004,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                      
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -8083,7 +8055,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                      
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -8115,10 +8087,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                        
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                       
                       </div>
                     </div>
                   </div>
@@ -8140,8 +8112,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                  
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -8176,7 +8147,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                       
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -8227,7 +8198,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                     
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -8254,10 +8225,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                       
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                     
                       </div>
                     </div>
                   </div>
@@ -8273,7 +8244,7 @@ function Jinseok() {
         <a
           href="http://m.ssg.com/page/ssgluxury/direct.ssg?mccode=6005"
           class="cmitem_more_link clickable"
-          style="--more-link-color: #000000"
+       
           data-react-tarea="홈|해외직구상품_더보기|더보기_링크_클릭"
         >
           해외직구 더보기<span class="cmitem_more_arrow"></span>
@@ -8295,7 +8266,7 @@ function Jinseok() {
             class="swiper-container swiper-container-horizontal swiper-container-android"
           >
             <ul class="swiper-wrapper">
-              <li class="swiper-slide swiper-slide-active" style="width: 443px">
+              <li class="swiper-slide swiper-slide-active">
                 <div class="cmhero_bn">
                   <img
                     class="swiper-lazy swiper-lazy-loaded"
@@ -8306,10 +8277,7 @@ function Jinseok() {
                     <div class="cmpt_point_marker ty_txcolor">
                       <div
                         class="cmpt_point_cont"
-                        style="
-                          left: 36.666666666666664%;
-                          top: 52.93333333333333%;
-                        "
+                      
                       >
                         <a
                           href="https://m-shinsegaemall.ssg.com/item/itemView.ssg?itemId=1000434846802&amp;siteNo=6009&amp;salestrNo=1004"
@@ -8350,7 +8318,7 @@ function Jinseok() {
                   </a>
                 </div>
               </li>
-              <li class="swiper-slide swiper-slide-next" style="width: 443px">
+              <li class="swiper-slide swiper-slide-next">
                 <div class="cmhero_bn">
                   <img
                     class="swiper-lazy swiper-lazy-loaded"
@@ -8361,10 +8329,7 @@ function Jinseok() {
                     <div class="cmpt_point_marker ty_txcolor">
                       <div
                         class="cmpt_point_cont"
-                        style="
-                          left: 55.60000000000001%;
-                          top: 75.06666666666668%;
-                        "
+                     
                       >
                         <a
                           href="https://m-shinsegaemall.ssg.com/item/itemView.ssg?itemId=1000413460439&amp;siteNo=6009&amp;salestrNo=1017"
@@ -8408,7 +8373,7 @@ function Jinseok() {
                   </a>
                 </div>
               </li>
-              <li class="swiper-slide" style="width: 443px">
+              <li class="swiper-slide">
                 <div class="cmhero_bn">
                   <img
                     class="swiper-lazy"
@@ -8420,7 +8385,7 @@ function Jinseok() {
                     <div class="cmpt_point_marker ty_txcolor">
                       <div
                         class="cmpt_point_cont"
-                        style="left: 54.93333333333334%; top: 52%"
+                      
                       >
                         <a
                           href="https://m-shinsegaemall.ssg.com/item/itemView.ssg?itemId=1000075324055&amp;siteNo=6009&amp;salestrNo=1004"
@@ -8514,8 +8479,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                  
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -8550,7 +8514,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                       
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -8601,7 +8565,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                    
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -8631,10 +8595,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                       
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                       
                       </div>
                     </div>
                   </div>
@@ -8656,8 +8620,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                 
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -8692,7 +8655,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                        
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -8743,7 +8706,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                      
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -8777,10 +8740,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                        
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                        
                       </div>
                     </div>
                   </div>
@@ -8802,8 +8765,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                  
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -8838,7 +8800,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                      
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -8889,7 +8851,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                     
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -8921,7 +8883,7 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                       
                       </div>
                       <div class="mnsditem_sideinfo">
                         <div class="mnsditem_review">
@@ -8936,7 +8898,7 @@ function Jinseok() {
                             <span class="blind">상품평 개수</span>409건
                           </div>
                         </div>
-                        <!-- 스와이프 일 경우  -->
+                      
                       </div>
                     </div>
                   </div>
@@ -8958,8 +8920,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                 
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -8994,7 +8955,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                        
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -9045,7 +9006,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                     
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -9076,7 +9037,7 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                        
                       </div>
                       <div class="mnsditem_sideinfo">
                         <div class="mnsditem_review">
@@ -9091,7 +9052,7 @@ function Jinseok() {
                             <span class="blind">상품평 개수</span>533건
                           </div>
                         </div>
-                        <!-- 스와이프 일 경우  -->
+                        
                       </div>
                     </div>
                   </div>
@@ -9113,8 +9074,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                 
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -9157,7 +9117,7 @@ function Jinseok() {
                         <span class="blind">동영상 재생하기</span>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                      
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -9208,7 +9168,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                      
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -9240,7 +9200,7 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                       
                       </div>
                       <div class="mnsditem_sideinfo">
                         <div class="mnsditem_review">
@@ -9255,7 +9215,7 @@ function Jinseok() {
                             <span class="blind">상품평 개수</span>438건
                           </div>
                         </div>
-                        <!-- 스와이프 일 경우  -->
+                       
                       </div>
                     </div>
                   </div>
@@ -9277,8 +9237,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                  
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -9313,7 +9272,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                       
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -9364,7 +9323,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                     
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -9397,7 +9356,7 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                      
                       </div>
                       <div class="mnsditem_sideinfo">
                         <div class="mnsditem_review">
@@ -9412,7 +9371,7 @@ function Jinseok() {
                             <span class="blind">상품평 개수</span>331건
                           </div>
                         </div>
-                        <!-- 스와이프 일 경우  -->
+                     
                       </div>
                     </div>
                   </div>
@@ -9434,8 +9393,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                  
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -9470,7 +9428,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                       
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -9521,7 +9479,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                     
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -9551,7 +9509,7 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                       
                       </div>
                       <div class="mnsditem_sideinfo">
                         <div class="mnsditem_review">
@@ -9566,7 +9524,7 @@ function Jinseok() {
                             <span class="blind">상품평 개수</span>1,652건
                           </div>
                         </div>
-                        <!-- 스와이프 일 경우  -->
+                       
                       </div>
                     </div>
                   </div>
@@ -9588,8 +9546,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                  
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -9624,7 +9581,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                       
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -9675,7 +9632,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                   
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -9706,7 +9663,7 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                      
                       </div>
                       <div class="mnsditem_sideinfo">
                         <div class="mnsditem_review">
@@ -9721,7 +9678,7 @@ function Jinseok() {
                             <span class="blind">상품평 개수</span>166건
                           </div>
                         </div>
-                        <!-- 스와이프 일 경우  -->
+                     
                       </div>
                     </div>
                   </div>
@@ -9743,8 +9700,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                 
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -9779,7 +9735,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                      
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -9830,7 +9786,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                    
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -9861,7 +9817,7 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                       
                       </div>
                       <div class="mnsditem_sideinfo">
                         <div class="mnsditem_review">
@@ -9876,7 +9832,7 @@ function Jinseok() {
                             <span class="blind">상품평 개수</span>126건
                           </div>
                         </div>
-                        <!-- 스와이프 일 경우  -->
+                   
                       </div>
                     </div>
                   </div>
@@ -9898,8 +9854,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -9934,7 +9889,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                      
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -9985,7 +9940,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                    
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -10017,7 +9972,7 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                      
                       </div>
                       <div class="mnsditem_sideinfo">
                         <div class="mnsditem_review">
@@ -10032,7 +9987,7 @@ function Jinseok() {
                             <span class="blind">상품평 개수</span>67건
                           </div>
                         </div>
-                        <!-- 스와이프 일 경우  -->
+                      
                       </div>
                     </div>
                   </div>
@@ -10054,8 +10009,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -10098,7 +10052,7 @@ function Jinseok() {
                         <span class="blind">동영상 재생하기</span>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                      
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -10149,7 +10103,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                    
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -10182,10 +10136,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                        
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                      
                       </div>
                     </div>
                   </div>
@@ -10207,8 +10161,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                 
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -10243,7 +10196,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                      
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -10294,7 +10247,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                    
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -10328,10 +10281,10 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                        
                       </div>
                       <div class="mnsditem_sideinfo">
-                        <!-- 스와이프 일 경우  -->
+                      
                       </div>
                     </div>
                   </div>
@@ -10353,8 +10306,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -10389,7 +10341,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                      
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -10440,7 +10392,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                    
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -10473,7 +10425,7 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                     
                       </div>
                       <div class="mnsditem_sideinfo">
                         <div class="mnsditem_review">
@@ -10488,7 +10440,7 @@ function Jinseok() {
                             <span class="blind">상품평 개수</span>17건
                           </div>
                         </div>
-                        <!-- 스와이프 일 경우  -->
+                  
                       </div>
                     </div>
                   </div>
@@ -10510,8 +10462,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -10546,7 +10497,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                      
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -10597,7 +10548,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                    
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -10627,7 +10578,7 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                       
                       </div>
                       <div class="mnsditem_sideinfo">
                         <div class="mnsditem_review">
@@ -10642,7 +10593,7 @@ function Jinseok() {
                             <span class="blind">상품평 개수</span>85건
                           </div>
                         </div>
-                        <!-- 스와이프 일 경우  -->
+                   
                       </div>
                     </div>
                   </div>
@@ -10664,8 +10615,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                 
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -10700,7 +10650,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                      
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -10751,7 +10701,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                    
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -10782,7 +10732,7 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                       
                       </div>
                       <div class="mnsditem_sideinfo">
                         <div class="mnsditem_review">
@@ -10797,7 +10747,7 @@ function Jinseok() {
                             <span class="blind">상품평 개수</span>56건
                           </div>
                         </div>
-                        <!-- 스와이프 일 경우  -->
+                      
                       </div>
                     </div>
                   </div>
@@ -10819,8 +10769,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                 
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -10855,7 +10804,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                     
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -10906,7 +10855,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                    
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -10939,7 +10888,7 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                      
                       </div>
                       <div class="mnsditem_sideinfo">
                         <div class="mnsditem_review">
@@ -10954,7 +10903,7 @@ function Jinseok() {
                             <span class="blind">상품평 개수</span>107건
                           </div>
                         </div>
-                        <!-- 스와이프 일 경우  -->
+                       
                       </div>
                     </div>
                   </div>
@@ -10976,8 +10925,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                 
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -11012,7 +10960,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                       
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -11063,7 +11011,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                   
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -11095,7 +11043,7 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                    
                       </div>
                       <div class="mnsditem_sideinfo">
                         <div class="mnsditem_review">
@@ -11110,7 +11058,7 @@ function Jinseok() {
                             <span class="blind">상품평 개수</span>691건
                           </div>
                         </div>
-                        <!-- 스와이프 일 경우  -->
+                     
                       </div>
                     </div>
                   </div>
@@ -11132,8 +11080,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                 
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -11168,7 +11115,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                     
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -11219,7 +11166,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                    
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -11247,7 +11194,7 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                    
                       </div>
                       <div class="mnsditem_sideinfo">
                         <div class="mnsditem_review">
@@ -11262,7 +11209,7 @@ function Jinseok() {
                             <span class="blind">상품평 개수</span>16,907건
                           </div>
                         </div>
-                        <!-- 스와이프 일 경우  -->
+                     
                       </div>
                     </div>
                   </div>
@@ -11284,8 +11231,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                 
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -11320,7 +11266,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                      
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -11371,7 +11317,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                   
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -11404,7 +11350,7 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                      
                       </div>
                       <div class="mnsditem_sideinfo">
                         <div class="mnsditem_review">
@@ -11419,7 +11365,7 @@ function Jinseok() {
                             <span class="blind">상품평 개수</span>15건
                           </div>
                         </div>
-                        <!-- 스와이프 일 경우  -->
+                       
                       </div>
                     </div>
                   </div>
@@ -11441,8 +11387,7 @@ function Jinseok() {
                   data-react-advert-advert-acct-grp-id=""
                   data-react-unit-text=""
                 >
-                  <!-- 명절여부 체크 -->
-                  <!-- benefitDto1 필요 값 체크 -->
+                
                   <div
                     class="mnsditem_goods"
                     data-unittype="item"
@@ -11477,7 +11422,7 @@ function Jinseok() {
                         </div>
                       </a>
                       <div class="mnsditem_btn_like">
-                        <!-- [D] 클립하였을 경우 on클래스 추가 -->
+                       
                         <span class="cmlike _js_cmlike interestIt">
                           <input type="hidden" name="attnDivCd" value="10" />
                           <input type="hidden" name="attnDivDtlCd" value="10" />
@@ -11528,7 +11473,7 @@ function Jinseok() {
                         </span>
                       </div>
 
-                      <!-- 품절시 -->
+                   
                     </div>
                     <div class="mnsditem_detail">
                       <div class="mnsditem_maininfo">
@@ -11562,7 +11507,7 @@ function Jinseok() {
                             </div>
                           </div>
                         </a>
-                        <!-- [D] 오픈마켓가격 노출 아닐때는 .mnsditem_info 구조 삭제 -->
+                      
                       </div>
                       <div class="mnsditem_sideinfo">
                         <div class="mnsditem_review">
@@ -11577,7 +11522,7 @@ function Jinseok() {
                             <span class="blind">상품평 개수</span>1건
                           </div>
                         </div>
-                        <!-- 스와이프 일 경우  -->
+                     
                       </div>
                     </div>
                   </div>
@@ -11593,7 +11538,7 @@ function Jinseok() {
         <a
           href="http://m.shinsegaemall.ssg.com/page/dept/specialgift.ssg"
           class="cmitem_more_link clickable"
-          style="--more-link-color: #000000"
+         
           data-react-tarea="홈|스페셜기프트_더보기|더보기_링크_클릭"
         >
           선물포장상품 더보기<span class="cmitem_more_arrow"></span>
@@ -11617,7 +11562,7 @@ function Jinseok() {
             <ul class="swiper-wrapper">
               <li
                 class="swiper-slide swiper-slide-active"
-                style="width: 374.625px; margin-right: 5px"
+               
               >
                 <div class="cmhero_bn">
                   <a
@@ -11649,7 +11594,7 @@ function Jinseok() {
               </li>
               <li
                 class="swiper-slide swiper-slide-next"
-                style="width: 374.625px; margin-right: 5px"
+              
               >
                 <div class="cmhero_bn">
                   <a
@@ -11683,7 +11628,7 @@ function Jinseok() {
               </li>
               <li
                 class="swiper-slide"
-                style="width: 374.625px; margin-right: 5px"
+               
               >
                 <div class="cmhero_bn">
                   <a
@@ -11712,7 +11657,7 @@ function Jinseok() {
               </li>
               <li
                 class="swiper-slide"
-                style="width: 374.625px; margin-right: 5px"
+               
               >
                 <div class="cmhero_bn">
                   <a
@@ -11742,7 +11687,7 @@ function Jinseok() {
               </li>
               <li
                 class="swiper-slide"
-                style="width: 374.625px; margin-right: 5px"
+              
               >
                 <div class="cmhero_bn">
                   <a
@@ -11780,10 +11725,7 @@ function Jinseok() {
             <div class="swiper-pagination swiper-pagination-progressbar">
               <span
                 class="swiper-pagination-progressbar-fill"
-                style="
-                  transform: translate3d(0px, 0px, 0px) scaleX(0.2) scaleY(1);
-                  transition-duration: 300ms;
-                "
+               
               ></span>
             </div>
           </div>
@@ -11983,7 +11925,7 @@ function Jinseok() {
     </div>
     <div class="cmgrid_full_box cmctg_nav_dummy"></div>
     <div class="cmgrid_full_box js-set-header" data-page-set-id="132">
-      <div class="cmctg_nav ty_rect" style="--ctg-nav-bgcolor: #ffffff">
+      <div class="cmctg_nav ty_rect" >
         <div class="cmctg_top">
           <h3>전체메뉴</h3>
           <span class="cmctg_toggle">
@@ -12008,7 +11950,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable on"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+              
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000039149"
                 data-cornr-set-id=""
@@ -12021,7 +11963,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+          
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000039150"
                 data-cornr-set-id=""
@@ -12034,7 +11976,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+               
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000039151"
                 data-cornr-set-id=""
@@ -12047,7 +11989,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+              
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000039153"
                 data-cornr-set-id=""
@@ -12060,7 +12002,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+             
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000039154"
                 data-cornr-set-id=""
@@ -12073,7 +12015,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+              
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000039155"
                 data-cornr-set-id=""
@@ -12086,7 +12028,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+             
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000039156"
                 data-cornr-set-id=""
@@ -12099,7 +12041,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+            
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000039157"
                 data-cornr-set-id=""
@@ -12112,7 +12054,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+             
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000039158"
                 data-cornr-set-id=""
@@ -12125,7 +12067,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+             
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000039159"
                 data-cornr-set-id=""
@@ -12138,7 +12080,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+             
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000039160"
                 data-cornr-set-id=""
@@ -12151,7 +12093,7 @@ function Jinseok() {
               <a
                 class="cmctg_lnk clickable"
                 href="#"
-                style="--ctg-active-bgcolor: #f12e24"
+            
                 data-disp-ctg-zone-id=""
                 data-disp-ctg-id="6000192145"
                 data-cornr-set-id=""
@@ -13566,7 +13508,7 @@ function Jinseok() {
         <a
           href="https://m-shinsegaemall.ssg.com/page/best/all.ssg"
           class="cmitem_more_link clickable"
-          style="--more-link-color: #000000"
+         
           data-react-tarea="홈|카테고리인기상품_더보기|더보기_링크_클릭"
         >
           인기상품 더보기<span class="cmitem_more_arrow"></span>
